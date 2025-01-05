@@ -63,7 +63,7 @@ class PhoneFormat {
             $this->brackets_alt      = "($block1) $block2 - $block3";
             $this->spaces            = "$block1 $block2 $block3";
             $this->dots              = "$block1.$block2.$block3";
-            $this->with_code_plus    = "$phone->1$string";
+            $this->with_code_plus    = "+1$string";
             $this->with_code_no_plus = "1$string";
         }
     }
