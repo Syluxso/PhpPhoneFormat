@@ -1,4 +1,8 @@
 # PhpPhoneFormat
+
+## VERSION release/1.0.0 (current)
+
+## GOAL
 The goals of this library are:
 - Clean a string and make it a valid phone number if possible.
 - Format valid phone numbers into many display formats automatically.
