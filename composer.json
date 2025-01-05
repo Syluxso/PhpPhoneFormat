@@ -1,5 +1,5 @@
 {
-    "name": "sylux/php-phone-format",
+    "name": "syluxso/php-phone-format",
     "description": "Clean, validate, and format any US based phone format",
     "type": "library",
     "license": "MIT",
