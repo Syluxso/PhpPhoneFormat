@@ -1,0 +1,13 @@
+{
+    "name": "sylux/php-phone-format",
+    "description": "Clean, validate, and format any US based phone format",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Syluxso",
+            "email": "syluxso@gmail.com"
+        }
+    ],
+    "require": {}
+}
