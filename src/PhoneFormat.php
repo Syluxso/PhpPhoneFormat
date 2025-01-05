@@ -1,5 +1,7 @@
 <?php
 
+namespace Syluxso\PhpPhoneFormat;
+
 class PhoneFormat {
 
     public $clean;

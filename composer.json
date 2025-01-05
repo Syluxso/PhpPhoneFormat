@@ -9,5 +9,19 @@
             "email": "syluxso@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+      "psr-4": {
+        "Syluxso\\PhpPhoneFormat\\": "src/"
+      }
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "Syluxso\\PhpPhoneFormat\\Tests\\": "tests/"
+      }
+    },
+    "require-dev": {
+      "phpunit/phpunit": "^10.0"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
